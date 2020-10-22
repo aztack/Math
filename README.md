@@ -49,7 +49,7 @@
 * Math.log2()
 * Math.max()
 * Math.min()
-* Math.pow()
+* Math.pow() [指数(幂运算)](https://math.haozi.me/pow.html)
 * Math.random()
 * Math.round()
 * Math.sign()
